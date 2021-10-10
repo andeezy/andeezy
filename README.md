@@ -1,5 +1,3 @@
-## Why hello, welcome to my page!
-
 ### Contact
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-fang/)](https://www.linkedin.com/in/andy-fang/)
 
