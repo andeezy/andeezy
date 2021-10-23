@@ -1,5 +1,14 @@
+## Hi, I’m Daniel 👋
+
 ### Contact
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-fang/)](https://www.linkedin.com/in/andy-fang/) Let's Connect!
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-fang/)](https://www.linkedin.com/in/andy-fang/)
+
+### About Me
+- I'm currently in my senior phase in the full time immersive program  at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE) 
+- I managed a restaurant for about five years before switching to tech
+- I am an avid mountain biker
+
+---
 
 ### Technologies
 
