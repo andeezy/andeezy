@@ -5,7 +5,8 @@
 
 ### About Me
 - I am a graduate from [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE) 
-- I worked in Sales Operations before making the switch the Software Engineering
+- I work in Sales Operations at LinkedIn but currently making a career pivot the Software Engineering
+- I have not cut my hair since February 2020. Hair length currently benchmarked at my lower chest
 - I love all things 🏀
 
 ---
