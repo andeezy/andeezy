@@ -6,12 +6,11 @@
 ### About Me
 - I am a graduate from [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE) 
 - I work in Sales Operations at LinkedIn but currently making a career pivot to Software Engineering
-- I have not cut my hair since February 2020. Hair length currently benchmarked at my lower chest
 - I love all things 🏀
 
 ---
 
-### Technologies
+### Technologiess
 
 #### Front-End
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -22,6 +21,7 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Back-End
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -45,5 +45,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
